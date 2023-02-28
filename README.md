@@ -11,7 +11,7 @@ Home for the materials (notebooks, data, and commentary) associated to the WSU C
 with the goal of providing lots of examples and opportunities for attendees to experiment.  
 
 ## Installation Instructions
-The Python Install .pdf above provides some links and instructions for getting started with python on your own computer. If you would prefer not to install anything now, you can still follow along by either using the directions in that same .pdf for opening the notebooks with one of the cloud services or by simpling clicking the corresponding links above. For attendees with more experience or Python background the main short course webpage has an environment prepared for this material. 
+The Python Install .pdf above provides some links and instructions for getting started with Python on your own computer. If you would prefer not to install anything now, you can still follow along by either using the directions in that same .pdf for opening the notebooks with one of the cloud services or by simpling clicking the corresponding links above. 
 
 ## Notebooks
 The main material we will be discussing in the tutorial is contained in the four Jupyter notebooks presented above. 
@@ -45,7 +45,7 @@ A couple of hours isn't nearly enough time to explore all of the facets of netwo
 
 * The NetworkX documentation is always a good starting spot and contains numerous examples in addition to the descriptions of functions and parameters: https://networkx.org/documentation/stable/index.html
 * I taught a graduate class on Computational Tools for Complex Networks at WSU last semester and the course repository (with additional notebooks and exposition documents) can be found here: https://github.com/drdeford/Math_581_05 The notebooks don't have as much expository material as the ones for this tutorial session but do include more detailed computations.
-* As a part of the 2019 VRDI, I taught a week of breakout sessions about networks with materials here: https://github.com/vrdi/Networks-Breakout
+* As a part of the 2019 Voting Rights Data Institute, I taught a week of breakout sessions about networks with materials here: https://github.com/vrdi/Networks-Breakout
 * If you are interested in trying out the GerryChain package for analyzing districting plans, you can find:
   * General information and background: htps://tinyurl.com/gerrytalk
   * Mathematical background (some typos!): http://math.wsu.edu/faculty/ddeford/mcmc_intro.php
