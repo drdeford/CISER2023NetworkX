@@ -1,6 +1,6 @@
 # Python Tutorial on Network(x)
 
-Home for the materials (notebooks, data, and commentary) associated to the introductory tutorial at the <a href="https://jointmathematicsmeetings.org/meetings/national/jmm2021/2247_intro">2021 JMM</a> Short Course on <a href = "https://meetings.ams.org/math/sc2021/meetingapp.cgi/Home/0"> Mathematical and Computational Methods for Complex Social Systems</a>. This tutorial is intended to provide a starting point for working with graphs and networks in Python and doesn't assume any specific programming background. The intended outline is approximately: 
+Home for the materials (notebooks, data, and commentary) associated to the WSU CISER Workshop on Computational Network Science. This tutorial is intended to provide a starting point for working with graphs and networks in Python and doesn't assume any specific programming background. The intended outline is approximately: 
 
 * How do Jupyter notebooks work?
 * Building and plotting Ego graphs
